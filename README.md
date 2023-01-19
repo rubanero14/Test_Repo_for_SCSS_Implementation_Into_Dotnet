@@ -9,7 +9,7 @@ ________________________________________________________________________________
 * Create a simple .NET MVC project, once done, go to folder Views > Home > Index.cshtml and open it
 * Clear all the contents except for the @Viewbag.Title code above
 * Now create a custom markup like simple "Hello World" nested inside of ```H1``` tag
-* Now go to folder named Content and add a new stylesheet file like ```test.scss```, and populate your SCSS code in it
+* Now go to folder named Content and add a new stylesheet file like ```test-scss.scss```, and populate your SCSS code in it
 * Once done, go to folder App_Start and open BundleConfig.cs file
 * In it, look for ```bundles``` method registering css files, now include your newly created SCSS file into the config with .css not .scss extension, example as below;
 ```
