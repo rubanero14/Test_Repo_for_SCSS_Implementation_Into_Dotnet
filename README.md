@@ -50,7 +50,10 @@ namespace Test_Repo_for_SCSS_Implementation_Into_Dotnet
 ![image](https://user-images.githubusercontent.com/85555894/213429518-f36f35c8-eb73-46c8-bb84-422b753fd306.png)
 * Choose the Web Compiler package made by Mads Kristensen, download it, and restart the whole VS IDE for the installation to be completed
 * Upon closing VS IDE, you will be prompted to ```Modify``` the package, just click it and continue installing
-* Once done, open back the project, go to folder named Content again, right-click on the scss file you had created, choose ```Web Compiler``` and click ```compile-file```, you cal also do with shortcut key binding using ```Shift + Alt + Q```
+* Once done, open back the project, go to folder named Content again, right-click on the scss file you had created, choose ```Web Compiler``` and click ```compile-file```, you cal also do with shortcut key binding using ```Shift + Alt + Q```, example as figure below;
+
+![image](https://user-images.githubusercontent.com/85555894/213430088-5622a93e-412c-4dbe-b9cc-da5dde9e6f8d.png)
+
 * Now you can run the program to check to see if the SCSS codes applied to the Views, or in this case, the Home Page
 * Note: Every time we change the code in the main scss file, you not only can re-compile manually, but also can auto-compile on save
 
