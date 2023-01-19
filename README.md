@@ -48,6 +48,7 @@ namespace Test_Repo_for_SCSS_Implementation_Into_Dotnet
 * Upon closing VSC, you will be prompted to ```Modify``` the package, just click it and continue installing
 * Once done, open back the project, go to folder named Content again, right-click on the scss file you had created, choose ```Web Compiler``` and click ```compile-file```, you cal also do with shortcut key binding using ```Shift + Alt + Q```
 * Now you can run the program to check to see if the SCSS codes applied to the Views, or in this case, the Home Page
+* Note: Every time we change the code in the main scss file, we need to re-compile the file again using method as above
 
 ___________________________________________________________________________________________________________________________
 
