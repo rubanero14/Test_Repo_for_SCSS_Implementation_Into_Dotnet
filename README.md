@@ -52,6 +52,6 @@ namespace Test_Repo_for_SCSS_Implementation_Into_Dotnet
 ___________________________________________________________________________________________________________________________
 
 Sources: 
-* https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler
+* [SASS Web Compiler](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebCompiler)
 * [Dharanz](https://www.youtube.com/watch?v=fdshEHHnetM)
 * [Mark Drake](https://www.youtube.com/watch?v=A8AWdj8apcU)
