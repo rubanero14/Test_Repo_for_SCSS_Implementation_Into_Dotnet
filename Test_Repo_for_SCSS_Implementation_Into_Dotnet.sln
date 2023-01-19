@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Repo_for_SCSS_Implementation_Into_Dotnet", "Test_Repo_for_SCSS_Implementation_Into_Dotnet\Test_Repo_for_SCSS_Implementation_Into_Dotnet.csproj", "{1780C278-40C7-44BD-80AE-2DB45A7A14C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1780C278-40C7-44BD-80AE-2DB45A7A14C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1780C278-40C7-44BD-80AE-2DB45A7A14C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1780C278-40C7-44BD-80AE-2DB45A7A14C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1780C278-40C7-44BD-80AE-2DB45A7A14C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A02A226-86FE-4A71-BE1A-BA9D965EEC07}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿$background-color: #333;
+$text-color: #ccc;
+$hover-text-color: #b6ff00;
+
+body {
+    background: $background-color;
+
+    main {
+        h1 {
+            color: $text-color;
+
+            &:hover {
+                color: $hover-text-color;
+            }
+        }
+
+        p {
+            color: $text-color;
+            
+            &:hover {
+                color: $hover-text-color;
+            }
+        }
+    }
+}
