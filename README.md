@@ -45,7 +45,9 @@ namespace Test_Repo_for_SCSS_Implementation_Into_Dotnet
 * Once done, go to ```Extensions``` on the VS IDE navigation bar, and click ```Manage Extensions```, example as below figure;
 
 ![image](https://user-images.githubusercontent.com/85555894/213429167-053d9dcc-c685-4cf8-b8eb-5966e6904953.png)
-* On the left sidebar, click ```Online``` tab and search for 'SASS Web Compiler' on the search box on the top right of the window
+* On the left sidebar, click ```Online``` tab and search for 'SASS Web Compiler' on the search box on the top right of the window, example as figure below;
+
+![image](https://user-images.githubusercontent.com/85555894/213429518-f36f35c8-eb73-46c8-bb84-422b753fd306.png)
 * Choose the Web Compiler package made by Mads Kristensen, download it, and restart the whole VS IDE for the installation to be completed
 * Upon closing VS IDE, you will be prompted to ```Modify``` the package, just click it and continue installing
 * Once done, open back the project, go to folder named Content again, right-click on the scss file you had created, choose ```Web Compiler``` and click ```compile-file```, you cal also do with shortcut key binding using ```Shift + Alt + Q```
